@@ -1,0 +1,5 @@
+Kh Metal Chrieng
+Kh Dangrek
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242.3825279976013!2d102.95930022735027!3d13.58945251795075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x311ae70060a2d897%3A0x53eabff087068862!2z4Z6P4Z624Z6T4Z-L4Z6Z4Z-J4Z674Z6EIOGegOGetuGeoOGfkuGenOGfgSAtIFRhbnlvbmcgQ2Fmw6kgLSDosK3li4flkpbllaEgKEJCVSk!5e0!3m2!1sen!2skh!4v1720935399440!5m2!1sen!2skh" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
