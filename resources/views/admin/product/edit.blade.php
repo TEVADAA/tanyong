@@ -27,7 +27,7 @@
                                     @enderror
                                 </div>
 
-                                <!-- Product Name -->
+                                <!-- Price -->
                                 <div class="form-group mb-4">
                                     <label class="block text-sm font-medium text-gray-700" for="description_upper"> Price </label>
                                     <input class="block w-full mt-1 border-gray-300 rounded-md shadow-sm placeholder:text-gray-400 placeholder:text-right focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50" type="text" name="price" placeholder="Enter Price" value="{{ $pro->price }}">
